@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/ZAVOD_YANTAR/YANTAR_CONCRETE003.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/aim_zavod_yantar_v2/c1047_-193_1068"
+	}
+}

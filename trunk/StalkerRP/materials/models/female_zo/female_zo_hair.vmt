@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\female_zo\female_zo_hair"
+	"$halflambert" 1
+	//"$translucent" 1
+	"$alphatest" 1
+	"$nocull" 1
+}

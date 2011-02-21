@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "SE1_Decals/3"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "SE1_Decals"
+}

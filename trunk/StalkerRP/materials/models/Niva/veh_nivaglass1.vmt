@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Niva/veh_nivaglass1"
+	"$translucent" 1
+}

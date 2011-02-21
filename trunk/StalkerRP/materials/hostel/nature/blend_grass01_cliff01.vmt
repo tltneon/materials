@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 		"hostel/nature/cliff01"
+	"$basetexture2" 		"hostel/nature/grass01"
+	"$surfaceprop" 		"dirt"
+	"$surfaceprop2" 		"grass"
+	"$bumpmap"		"hostel/nature/bump01"
+	"$bumpmap2"		"hostel/nature/bump01"
+	"%detailtype"		"default_grass"
+	"$blendmodulatetexture"         "hostel/nature/modulate01"
+}

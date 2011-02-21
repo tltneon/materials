@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "SE1_Decals/SE1_paveCrack_decal_02"
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "SE1_Decals"
+}

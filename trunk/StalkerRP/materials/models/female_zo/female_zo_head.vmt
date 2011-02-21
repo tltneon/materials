@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\female_zo\female_zo_head"
+	"$surfaceprop" "flesh"
+	"$bumpmap" "Models/female_zo/female_zo_head_normal"
+	"$halflambert" 1
+
+}

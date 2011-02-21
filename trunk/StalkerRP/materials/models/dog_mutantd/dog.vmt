@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/dog_mutantd/dog"
+	"$bumpmap" 	"models/dog_mutantd/dog_n"
+}

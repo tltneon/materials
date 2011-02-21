@@ -1,0 +1,4 @@
+"VertexLitGeneric" {
+"$baseTexture" "models/de_energo/kran/kran5"
+"$model" 1
+}

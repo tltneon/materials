@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+   "$basetexture" "hostel/water/caustic01"
+   "$translucent" "1"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 24
+      }
+   }
+}

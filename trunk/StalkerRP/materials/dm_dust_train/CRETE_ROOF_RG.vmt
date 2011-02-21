@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "dm_dust_train/crete_roof_rg"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "dm_dust_train/crete_roof_rgDOT3"
+}
