@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hostel/wood/02"
+	"$bumpmap" "hostel/wood/02_b"
+	"$surfaceprop" "wood"
+}

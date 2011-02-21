@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hostel/building/14"
+	"$basetexture" "hostel/building/14_b"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/flashlight"
+	"$nocull" 1
+}

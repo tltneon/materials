@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "models/cherylredux/eyeball_l"
+	"$iris" "models/cherylredux/pupil"
+	//"$nolight" 1
+}

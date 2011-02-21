@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/stalkertex/snoodof/snoodof"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$envmapmask" "models/stalkertex/snoodof/snoodof_m"
+
+	"$translucent" 1
+
+}
+
+
+

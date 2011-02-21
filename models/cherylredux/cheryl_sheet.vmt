@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cherylredux/cheryl_sheet"
+	"$bumpmap" "models/cherylredux/cheryl_sheet_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$nodecal" "1"
+	"$nocull" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$rimlight" "1"									
+	"$rimlightexponent" "30"
+	
+}

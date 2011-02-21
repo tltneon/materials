@@ -1,0 +1,7 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\Buildings_2"
+	"$surfaceprop" "concrete"
+	"%keywords" "de_energo"
+}

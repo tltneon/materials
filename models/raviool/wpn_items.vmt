@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/wpn_items"
+	"$nocull" 1
+}

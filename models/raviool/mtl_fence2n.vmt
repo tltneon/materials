@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/mtl_fence2n"
+	"$alphatest" 1
+	"$translucent" 1
+}

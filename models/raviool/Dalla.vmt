@@ -1,0 +1,6 @@
+"Decal"
+{
+	"$basetexture" "models/raviool/Dalla"
+	"$alphatest" 1
+	"$nocull" 1
+}

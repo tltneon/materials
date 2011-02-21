@@ -1,0 +1,8 @@
+"UnlitGeneric"
+
+{
+  "$basetexture"      "maps/srp_darkdolina_v1"
+  "$ignorez"		1
+  "$vertexcolor"	1
+  "$vertexalpha"	1
+}
